@@ -1,0 +1,29 @@
+#logo{
+  float: left;
+}
+
+#logo2{
+
+}
+
+.ui.borderless.middlemenu.menu{
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.footer-background{
+  background-color: #004030;
+}
+
+.text1{
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+
+.text2{
+  color: white;
+}
